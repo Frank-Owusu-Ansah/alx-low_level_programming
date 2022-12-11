@@ -6,3 +6,4 @@
 (setq whitespace-style '(face empty-lines trailing)
       (global-whitespace-mode t)
       (setq column-number-mode t)
+(setq column-number-mode t)
