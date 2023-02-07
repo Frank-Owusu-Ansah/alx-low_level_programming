@@ -1,20 +1,3 @@
-
-Biggiesmall67
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x15-file_io/100-elf_header.c
-@Biggiesmall67
-Biggiesmall67 new task
- 1 contributor
-302 lines (263 sloc)  5.74 KB
 #include <elf.h>
 #include <fcntl.h>
 #include <stdio.h>
@@ -197,7 +180,7 @@ void elf_osabi(const unsigned char *buffer)
  */
 void elf_abivers(const unsigned char *buffer)
 {
-	printf("  %-34s %u\n", "ABI Version:", buffer[EI_ABIVERSION]);
+	printf("  %-34s %u\n", "ABI Version:", buffer[EI_ABIVERSION]);7⁷
 }
 
 /**
