@@ -1,20 +1,3 @@
-
-fadekirues
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x17-doubly_linked_lists/0-print_dlistint.c
-@fadekirues
-fadekirues task 0
- 1 contributor
-30 lines (24 sloc)  396 Bytes
 #include "lists.h"
 
 /**
